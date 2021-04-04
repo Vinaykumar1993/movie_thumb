@@ -4,28 +4,7 @@ Below you will find some information on how to perform common tasks.
 You can find the most recent version of this guide [here](https://github.com/enactjs/templates/blob/master/packages/webostv/template/README.md).
 Additional documentation on @enact/cli can be found [here](https://github.com/enactjs/cli/blob/master/docs/index.md).
 
-## Folder Structure
-
-After creation, your project should look like this:
-
-```
-my-app/
-  README.md
-  .gitignore
-  node_modules/
-  package.json
-  src/
-    App/
-      App.js
-      App.less
-      package.json
-    components/
-    views/
-      MainPanel.js
-    index.js
-  resources/
-  webos-meta/
-```
+## Movie Cards
 
 For the project to build, **these files must exist with exact filenames**:
 
