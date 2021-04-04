@@ -5,7 +5,7 @@ import Spottable from '@enact/spotlight/Spottable';
 
 import css from './MovieCard.module.less';
 import Layout,{Cell,Row} from '@enact/ui/Layout';
-const KittenBase = kind({
+const MovieCardBase = kind({
 	name: 'MovieCard',
 
 	propTypes: {
@@ -42,7 +42,7 @@ const KittenBase = kind({
 	}
 });
 
-const MovieCard = (KittenBase);
+const MovieCard = (MovieCardBase);
 
 export default MovieCard;
-export {MovieCard, KittenBase};
+export {MovieCard, MovieCardBase};
