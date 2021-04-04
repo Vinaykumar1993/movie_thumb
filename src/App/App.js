@@ -1,26 +1,62 @@
+import {ActivityPanels} from '@enact/moonstone/Panels';
+import Changeable from '@enact/ui/Changeable';
 import kind from '@enact/core/kind';
-import ThemeDecorator from '@enact/sandstone/ThemeDecorator';
-import Panels from '@enact/sandstone/Panels';
+import MoonstoneDecorator from '@enact/moonstone/MoonstoneDecorator';
+import PropTypes from 'prop-types';
+import React from 'react';
 
-import MainPanel from '../views/MainPanel';
+import Detail from '../views/Detail';
+import List from '../views/List';
+import kittens from '../../resources/moviecards.json';
 
-import css from './App.module.less';
-
-const App = kind({
+const AppBase = kind({
 	name: 'App',
 
-	styles: {
-		css,
-		className: 'app'
+	propTypes: {
+		index: PropTypes.number,
+		kitten: PropTypes.number,
+		onNavigate: PropTypes.func,
+		onSelectKitten: PropTypes.func
 	},
 
-	render: (props) => (
-		<div {...props}>
-			<Panels>
-				<MainPanel />
-			</Panels>
+	defaultProps: {
+		index: 0,
+		kitten: 0
+	},
+
+	handlers: {
+		onSelectKitten: (ev, {onNavigate, onSelectKitten}) => {
+			if (onSelectKitten) {
+				onSelectKitten({
+					kitten: ev.index
+				});
+			}
+
+			// navigate to the detail panel on selection
+			if (onNavigate) {
+				onNavigate({
+					index: 1
+				});
+			}
+		}
+	},
+
+	render: ({index, onNavigate, onSelectKitten, kitten, ...rest}) => (
+		<div {...rest}>
+			<ActivityPanels index={index} onSelectBreadcrumb={onNavigate}>
+			
+				<List onSelectKitten={onSelectKitten}>{kittens}</List>
+				<Detail details={kittens[kitten]} />
+			</ActivityPanels>
 		</div>
 	)
 });
 
-export default ThemeDecorator(App);
+const App = Changeable({prop: 'index', change: 'onNavigate'},
+	Changeable({prop: 'kitten', change: 'onSelectKitten'},
+		MoonstoneDecorator(AppBase)
+	)
+);
+
+export default App;
+export {App, AppBase};

@@ -1,0 +1,1451 @@
+[
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1277167",
+        "video_name": "Irumunai- Full Movie - Exclusively on Flixdaa",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Exclusively Release Only on Flixdaa - OTT\r<br>\r<br>A police inspector, three days before his retirement, was being assigned to investigate a murder of a gangster. When he finds out that the victim was his close friend, and with just three days before his retirement, he sets out on an emotionally challenging investigation to uncover the truth.",
+        "video_genre": "",
+        "video_duration": 3439,
+        "video_duration_formatted": "57 minutes",
+        "video_duration_formatted_short": "57:19",
+        "video_duration_formatted_hours": "57 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-09-2020/irumunai_FINAL__YD4X3LFU1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/kriyaid-live-interaction-on-september-27-2020-430-pm-ist-700-pm-sgt--1",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/kriyaid-live-interaction-on-september-27-2020-430-pm-ist-700-pm-sgt--1",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1276336",
+        "video_name": "Igazhvar Poruththal Thalai - Tamil Family Drama",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Igazhvar Poruththal Thalai - Tamil Family Drama\r<br>\r<br>Written & Directed by : Raghavendran\r<br>Cinematography : Eshvar Prasad\r<br>Music : Sai Sharan\r<br>Editing and VFX : Ajith Kumar\r<br>Grading : Raghavendran\r<br>RR MIX AND MASTERING : Ijaz ahamed\r<br>Produced by Raghavendran,Viswaganesh\r<br>Post production : XPRESS Media",
+        "video_genre": "",
+        "video_duration": 2673,
+        "video_duration_formatted": "44 minutes",
+        "video_duration_formatted_short": "44:33",
+        "video_duration_formatted_hours": "44 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT1150x112.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT1320x240.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT1450x337.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT1640x480.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT1800x600.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/04-09-2020/LKLD__R8PGBHT11024x768.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/igazhvar-poruththal-thalai-tamil-family-drama",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/igazhvar-poruththal-thalai-tamil-family-drama",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1272892",
+        "video_name": "Aquarist Cinderella - Film - Action",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "This film revolves around three characters. A betta fish lover and gorgeous teen \"Cinderella Joseph\" being an Aquarist and her interest \"Charan\", a final year Aquatic & Fishery Science student who is back to North Malaysia for holiday , and the Siamese fighting fish \"Charlie\", also known as dumbo ear betta, which is a popular fish in the aquarium trade which sets an indescribable journey between three of them. Antagonist Akai Arasu, an expert in fish gambling who has stepped in North Malaysia to initiate betting on betta fish fighting to the death! The rest of the film focuses on the consequences faced by Charan and Cinderella to save Betta Breed Charlie.",
+        "video_genre": "",
+        "video_duration": 2571,
+        "video_duration_formatted": "42 minutes",
+        "video_duration_formatted_short": "42:51",
+        "video_duration_formatted_hours": "42 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE0150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE0320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE0450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE0640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE0800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/07-07-2020/KKK__Z7YVIUE01024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/aquarist-cinderella-film-action",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/aquarist-cinderella-film-action",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268614",
+        "video_name": "Pickles - Film - Comedy",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Five unlikely characters form a film company embarks to achieve their individual dreams. Clueless about filmmaking, this team of misfits attempts their childhood dream, to produce a film. An emotional roller coaster that will make you laugh, cry, and ponder about ‘achieving dreams’. An adaptation of true stories from our Singaporean media industry, this film is sure to keep the audience on the edge.",
+        "video_genre": "Comedy",
+        "video_duration": 7295,
+        "video_duration_formatted": "121 minutes",
+        "video_duration_formatted_short": "121:35",
+        "video_duration_formatted_hours": "2 hr 1 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G39150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G39320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G39450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G39640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G39800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Pickles__6KTX0G391024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/pickles",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/pickles",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269028",
+        "video_name": "Iravan - Film - Action",
+        "video_publish_year": "2015",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "A clever and suspenseful Tamil action thriller that take place in Kuala Lumpur revolving around an adventurous company managing director, who is puzzled by the murder cases that are happening around him which end up causing his entire family members to die, one by one.",
+        "video_genre": "Action Thriller",
+        "video_duration": 8633,
+        "video_duration_formatted": "143 minutes",
+        "video_duration_formatted_short": "143:53",
+        "video_duration_formatted_hours": "2 hr 23 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X7150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X7320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X7450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X7640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X7800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/26-04-2020/2__3___2FUNM8X71024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/iravan-movie",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/iravan-movie",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269296",
+        "video_name": "Sadhurangam - Film - Family",
+        "video_publish_year": "2016",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Sathurangam is about a father who returns from prison in search of his family. The family shuns the protagonist as they believe he has breached their trust. But the protagonist's daughter does not believe in it. Will the family reunite once again?",
+        "video_genre": "Family Drama",
+        "video_duration": 4379,
+        "video_duration_formatted": "72 minutes",
+        "video_duration_formatted_short": "72:59",
+        "video_duration_formatted_hours": "1 hr 12 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/sathurangam__2___0O1ELYTF1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/sadhurangam-film-action",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/sadhurangam-film-action",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268840",
+        "video_name": "Aasai - Film - Family",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "When an accomplished marriage counselor finds troubles brewing in the marriages under his own roof, do his theories come into play?",
+        "video_genre": "Family",
+        "video_duration": 2841,
+        "video_duration_formatted": "47 minutes",
+        "video_duration_formatted_short": "47:21",
+        "video_duration_formatted_hours": "47 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI428150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI428320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI428450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI428640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI428800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/20-04-2020/Aasai__DTPBI4281024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/aasai",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/aasai",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268644",
+        "video_name": "Thai Aval - Film - Family",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "A tribute to the mothers. Story revolves around 2 mothers and a son. With 2 songs depicting mothers love, this film is a tear-jerker.",
+        "video_genre": "Family",
+        "video_duration": 4735,
+        "video_duration_formatted": "78 minutes",
+        "video_duration_formatted_short": "78:55",
+        "video_duration_formatted_hours": "1 hr 18 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Thai_Aval__VXZ59DRN1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/thai-aval",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/thai-aval",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268643",
+        "video_name": "Enthan Uyir Thozhi - Film - Fantasy Comedy",
+        "video_publish_year": "2017",
+        "video_rating": "",
+        "video_language": "English",
+        "video_description": "\"Surya Prasad gets a chance to travel across time when his friendship with Shruti Balakrishnan gets snapped\r<br>because of his love proposal. More problems and obstacles awaits his\r<br>journey when he decides to alter the passage of time to win his lady love. \"",
+        "video_genre": "Fantasy Comedy",
+        "video_duration": 5542,
+        "video_duration_formatted": "92 minutes",
+        "video_duration_formatted_short": "92:22",
+        "video_duration_formatted_hours": "1 hr 32 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W2150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W2320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W2450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W2640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W2800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/3X4__MSPZG0W21024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/enthan-uyir-thozhi",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/enthan-uyir-thozhi",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269220",
+        "video_name": "Thaedal - Film - Family",
+        "video_publish_year": "2014",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "THAEDAL - Movie",
+        "video_genre": "Family Drama",
+        "video_duration": 4195,
+        "video_duration_formatted": "69 minutes",
+        "video_duration_formatted_short": "69:55",
+        "video_duration_formatted_hours": "1 hr 9 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O6150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O6320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O6450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O6640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O6800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thaedal__S7UE20O61024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/thaedal",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/thaedal",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269221",
+        "video_name": "Thalaimurai - Film - Family",
+        "video_publish_year": "2015",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Paneer, Khalid, and Heng are very good friends who are part of the pioneer generation. They are still working hard to contribute to the community. However, Paneer is heart-broken when his grandson has no plans to stay in Singapore.",
+        "video_genre": "Family Drama",
+        "video_duration": 4398,
+        "video_duration_formatted": "73 minutes",
+        "video_duration_formatted_short": "73:18",
+        "video_duration_formatted_hours": "1 hr 13 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/thalaimurai_poster__GQDYT07O1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/thalaimurai",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/thalaimurai",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268633",
+        "video_name": "Nee Varalaiyaa? - Film - Horror",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "English",
+        "video_description": "3 friends, Shruthi, Anu & Siva meet to spend an evening in their old abandoned school that would be demolished in a few weeks. An evening to reminisce & share their old school memories, with their new gang member Kris. However, not every memory is going to be as sweet as they expected it to be. Some things are best left unspoken & unquestioned.",
+        "video_genre": "",
+        "video_duration": 5254,
+        "video_duration_formatted": "87 minutes",
+        "video_duration_formatted_short": "87:34",
+        "video_duration_formatted_hours": "1 hr 27 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM4150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM4320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM4450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM4640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM4800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Nee_Varalaya__6VBR8WM41024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/nee-varalaiyaa",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/nee-varalaiyaa",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268619",
+        "video_name": "Times Up Mama - Film - Comedy",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Three unlikely individuals; Pura, Magesh and Karthik who have never met before, get together for a night of their lifetime – one last time. Bonded with one common goal; to experience life like never before within the next 24 hours. Who do they meet? What do they do? Where do they end up? Can\r<br>everything will be done in 24 hours?",
+        "video_genre": "Comedy",
+        "video_duration": 5450,
+        "video_duration_formatted": "90 minutes",
+        "video_duration_formatted_short": "90:50",
+        "video_duration_formatted_hours": "1 hr 30 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Timesup_Mama__5PKTQYEC1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/times-up-mama",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/times-up-mama",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268632",
+        "video_name": "Lucky Loga - Film - Comedy",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "English",
+        "video_description": "Loganathan, known as Loga – your average dude, trying to keep his life  together. As the sole breadwinner of the family, doing odd jobs to keep the family running. Yet, nothing in life is right for him. Eventually deciding to end his own life, things take a turn. He meets Sam. Will Loga’s luck turn around?",
+        "video_genre": "Comedy",
+        "video_duration": 4390,
+        "video_duration_formatted": "73 minutes",
+        "video_duration_formatted_short": "73:10",
+        "video_duration_formatted_hours": "1 hr 13 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/15-04-2020/Lucky_Loga__PA7HW6CZ1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/lucky-loga",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/lucky-loga",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269223",
+        "video_name": "Mudhal Vannakam - Film - Family",
+        "video_publish_year": "2017",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Ever since the tragic deaths of Revathi's parents, she works part-time to support herself and her grandfather. She tries to cope with her studies, work stress, and peer pressure at school but will she get to balance it all? Miss Maya steps in and goes the extra mile to help her student in Mudhal Vanakkam.",
+        "video_genre": "Family Drama",
+        "video_duration": 4330,
+        "video_duration_formatted": "72 minutes",
+        "video_duration_formatted_short": "72:10",
+        "video_duration_formatted_hours": "1 hr 12 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD7150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD7320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD7450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD7640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD7800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/mudhal_vanakkam__NZFS4WD71024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/mudhal-vannakam",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/mudhal-vannakam",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269222",
+        "video_name": "7aam Maadi - Film - Family",
+        "video_publish_year": "2014",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "A Family Drama Telemovie",
+        "video_genre": "Family Drama",
+        "video_duration": 2682,
+        "video_duration_formatted": "44 minutes",
+        "video_duration_formatted_short": "44:42",
+        "video_duration_formatted_hours": "44 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/7aammaadiposter__CS6VYZ0K1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/7am-maadi",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/7am-maadi",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269218",
+        "video_name": "Kanavugal - Kids Film",
+        "video_publish_year": "2016",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Ameera wants to win the inter-class speech competition in her school and she’s faced with the topic My Singapore… she has no idea what to say! Follow the Ameera on her journey to find out what Singapore means to others and eventually, figuring out what Singapore means to her.",
+        "video_genre": "Kids",
+        "video_duration": 3978,
+        "video_duration_formatted": "66 minutes",
+        "video_duration_formatted_short": "66:18",
+        "video_duration_formatted_hours": "1 hr 6 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/kanavugal__0WABQ3DV1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/kanavugal",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/kanavugal",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1268984",
+        "video_name": "Excuse Me, Kollai Adikka Poroam! - Film - Comedy",
+        "video_publish_year": "2021",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "A double hero subject about two unemployed youth turned robbers, who find themselves in turmoil while trying to execute a 'heist'. ",
+        "video_genre": "Comedy",
+        "video_duration": 2704,
+        "video_duration_formatted": "45 minutes",
+        "video_duration_formatted_short": "45:04",
+        "video_duration_formatted_hours": "45 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT2150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT2320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT2450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT2640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT2800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Excuseme__NRAFDBT21024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/excuseme-kollaiadikka-poorom",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/excuseme-kollaiadikka-poorom",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269173",
+        "video_name": "Chakra - Film - Social",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Kids film - Social",
+        "video_genre": "Social",
+        "video_duration": 4175,
+        "video_duration_formatted": "69 minutes",
+        "video_duration_formatted_short": "69:35",
+        "video_duration_formatted_hours": "1 hr 9 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/25-04-2020/Chakra__RC4AFJWZ1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/chakra-movie",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/chakra-movie",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269219",
+        "video_name": "Settai 1 - Kids Film",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "English",
+        "video_description": "Settai 1 is a kids detective movie about three children who go around and solve cases and what obstacles do they face forms the rest of the movie. \r<br>\r<br>This Hit Series was commissioned and telecasted on MediaCorp Vasantham, Singapore.",
+        "video_genre": "Kids",
+        "video_duration": 2542,
+        "video_duration_formatted": "42 minutes",
+        "video_duration_formatted_short": "42:22",
+        "video_duration_formatted_hours": "42 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/SETTAI_Poster__H718QMAG1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/settai-01",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/settai-01",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269217",
+        "video_name": "Settai 2 - Kids Film -",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "SETTAI 2 brings back the team with a reformed Naveen to help them out in solving cases around the neighborhood. Cases that even involve one of their own.",
+        "video_genre": "",
+        "video_duration": 3846,
+        "video_duration_formatted": "64 minutes",
+        "video_duration_formatted_short": "64:06",
+        "video_duration_formatted_hours": "1 hr 4 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/28-04-2020/settai2_poster__IEQKH1CU1024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/settai-02",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/settai-02",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269025",
+        "video_name": "Akshaya - Kids Film - Fantasy",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Akshaya is a Fantasy Kids' telemovie filled with magic, surprises, and exciting scenes just to entertain you and your family. \r<br>\r<br>This Hit Series was commissioned and telecast on MediaCorp Vasantham, Singapore.",
+        "video_genre": "Fantasy",
+        "video_duration": 2660,
+        "video_duration_formatted": "44 minutes",
+        "video_duration_formatted_short": "44:20",
+        "video_duration_formatted_hours": "44 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q9150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q9320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q9450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q9640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q9800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/23-04-2020/Akshayaa__ETXRU2Q91024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/akshaya",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/akshaya",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    },
+    {
+      "type": "MovieCard",
+      "data": {
+        "video_id": "1269019",
+        "video_name": "Acham thavir - Kids film - Super hero",
+        "video_publish_year": "",
+        "video_rating": "",
+        "video_language": "Tamil",
+        "video_description": "Acham Thavir is a Superhero based Kids film with all fun factors, to entertain, engage, and make you think. This movie is made for all ages from kids to the elderly.\r<br>\r<br>This Hit Series was commissioned and telecast on MediaCorp Vasantham, Singapore.",
+        "video_genre": "Superhero Film",
+        "video_duration": 2732,
+        "video_duration_formatted": "45 minutes",
+        "video_duration_formatted_short": "45:32",
+        "video_duration_formatted_hours": "45 min",
+        "video_thumbnails": {
+          "3x4": {
+            "150": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX9150x200.jpg",
+            "320": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX9320x427.jpg",
+            "450": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX9450x600.jpg",
+            "640": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX9640x853.jpg",
+            "800": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX9800x1067.jpg",
+            "1024": "https://v2s3z9v2.stackpathcdn.com/videos/3644/24-04-2020/Acham_Thavir__6ZO10FX91024x1365.jpg"
+          },
+          "16x9": []
+        },
+        "video_url": {
+          "label": "WATCH NOW",
+          "type": "NavURL",
+          "url": "https://www.flixdaa.com/watch/films/acham-thavir",
+          "host": "www.flixdaa.com",
+          "path": "/watch/films/acham-thavir",
+          "route": {
+            "page": "movie_page",
+            "api_url": "https://ottapi.ventunotech.com/v1/ott/movie/5e82d8989086f/257",
+            "intent": "MOVIE_PAGE"
+          }
+        },
+        "addToWatchlistButton": {
+          "message": "Add video to My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/addUserWatchList/5e82d8989086f/257"
+          }
+        },
+        "deleteFromWatchlistButton": {
+          "message": "Delete video from My List",
+          "label": "My List",
+          "url": {
+            "type": "DataURL",
+            "url": "https://ottapi.ventunotech.com/v1/ott/deleteUserWatchList/5e82d8989086f/257"
+          }
+        }
+      },
+      "meta": {
+        "isPremiumYN": false,
+        "isInWatchlistYN": false,
+        "canShowWatchListButtonYN": false,
+        "canShowTitleYN": true,
+        "canShowMetaYN": false
+      },
+      "layout": 1
+    }
+  ]

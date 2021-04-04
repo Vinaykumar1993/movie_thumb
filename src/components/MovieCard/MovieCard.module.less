@@ -1,0 +1,49 @@
+
+.MovieCard {
+	display: inline-block;
+	padding-right: 20px;
+	margin-bottom:30px;
+	text-align: left;
+	.custom_cell_class{
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	img{
+	display:flex;
+	height:100%;
+	}
+	&:hover{
+
+
+	img{
+	border:1px solid yellow;
+	}
+	.video_name{
+	color:yellow;
+	}
+	}
+
+
+}
+@media (max-width:768px) {
+	max-width:45%!important;
+	padding-right: 25px;
+}
+@media (max-width:500px) {
+		width:100%;
+		padding-right: 0px;
+		max-width:100%!important;
+		.custom_cell_class{
+		height:auto;
+		img{
+		height:auto;
+		}
+		}
+		}
+.video_name{
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	margin-top:12px;
+}
+}
