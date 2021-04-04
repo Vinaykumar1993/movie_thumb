@@ -1,7 +1,7 @@
 {
   "name": "movie_thumb",
   "version": "1.0.0",
-  "description": "A kitten browser app to introduce some intermediate ES6, React, and Enact concepts.",
+  "description": "listing movie cards",
   "author": "",
   "main": "src/index.js",
   "scripts": {
