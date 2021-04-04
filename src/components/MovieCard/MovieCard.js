@@ -29,8 +29,6 @@ const MovieCardBase = kind({
 	},
 
 	render: ({children, onSelect, url,data,css ,...rest}) => {
-		delete rest.size;
-		delete rest.index;
 		return (
 			<Cell  {...rest} size={280}>
 			<div className={css.custom_cell_class}  onClick={onSelect}>
