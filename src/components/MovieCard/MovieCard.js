@@ -40,7 +40,7 @@ const MovieCardBase = kind({
 	}
 });
 
-const MovieCard = (MovieCardBase);
+const MovieCard = Spottable(MovieCardBase);
 
 export default MovieCard;
 export {MovieCard, MovieCardBase};
